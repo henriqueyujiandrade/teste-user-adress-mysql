@@ -6,7 +6,7 @@
   - [3. Instalação](#3-instalação)
     - [3.1 Requisitos](#31-requisitos)
     - [3.2 Instalação](#32-instalação)
-  - [4. Nota importante!](#4-nota)
+  - [4. Nota](#4-nota)
   - [5. Desenvolvedor](#5-desenvolvedor)
 
 <a name="sobre"></a>
@@ -41,7 +41,7 @@ Esse Teste consiste em um projeto Full Stack onde o usuário pode se cadastrar c
 
 3.2.1 - Crie um novo banco com nome de sua preferência no MySQL
 
-3.2.2 - Instale as dependências requisitadas para o projeto utilizando o comando Yarn
+3.2.2 - Clone esse repositório, entre na pasta raiz do projeto e instale as dependências requisitadas utilizando o comando Yarn
 
 `yarn`
 
@@ -55,7 +55,7 @@ DB='meubanco'
 DB_USER='meuuser'
 ```
 
-3.2.4 Para rodar o servidor utilize o comando `yarn dev` no terminal dentro da pasta 'server', se tudo der certo receberá uma mensagem como essa:
+3.2.4 Para rodar o servidor utilize o comando `yarn dev` no terminal, se tudo der certo receberá uma mensagem como essa:
 
       Servidor executando
       query: SELECT VERSION() AS `version`
