@@ -61,7 +61,7 @@ DB_USER='meuuser'
       query: SELECT VERSION() AS `version`
       Data Source has been initialized!
 
-## 5. Nota importante
+## 4. Nota importante
 
 - Sobre a seguinte rota:
 
