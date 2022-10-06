@@ -13,7 +13,7 @@
 
 ## 1. Sobre
 
-Esse Teste consiste em um projeto Full Stack onde o usuário pode se cadastrar com seus dados, realizer o login e cadastrar diversos contatos em sua conta.
+Esse Teste consiste em um projeto Back End, onde é possível cadastrar um usuário e adicionar diversos endereços para o mesmo.
 
 <a name="links"></a>
 
